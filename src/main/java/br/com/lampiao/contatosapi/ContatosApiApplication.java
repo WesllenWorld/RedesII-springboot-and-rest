@@ -1,13 +1,14 @@
-package br.unicap.springbootrest.springbootrest;
+package br.com.lampiao.contatosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootrestApplication {
+public class ContatosApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootrestApplication.class, args);
+		SpringApplication.run(ContatosApiApplication.class, args);
 	}
 
 }
+
